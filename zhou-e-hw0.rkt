@@ -1,4 +1,5 @@
 ;Eric Zhou, ezzhou
+;BSL
 (require 2htdp/image)
 
 ;(1.)
